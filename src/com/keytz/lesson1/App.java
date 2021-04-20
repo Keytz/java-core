@@ -1,4 +1,4 @@
-import com.keytz.*;
+package com.keytz.lesson1;
 
 public class App {
 

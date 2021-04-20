@@ -1,4 +1,4 @@
-package com.keytz;
+package com.keytz.lesson1;
 
 public interface RunnableJumpable {
     int getProbeg();

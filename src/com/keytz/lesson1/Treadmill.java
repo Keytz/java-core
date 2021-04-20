@@ -1,4 +1,4 @@
-package com.keytz;
+package com.keytz.lesson1;
 
 public class Treadmill implements Bariers{
     private int probeg;
